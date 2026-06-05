@@ -1,0 +1,6 @@
+{
+  "name": "LifeOnPlus",
+  "description": "Your One-Stop Digital Healthcare & Wellness Marketplace. Affordable | Accessible | Global Lifeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
